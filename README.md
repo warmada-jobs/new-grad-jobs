@@ -1,6 +1,6 @@
 # US New Grad and Entry-Level Jobs
 
-Open new grad, early career and entry-level roles at US employers: 12 new grad and entry-level roles at 11 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-11.
+Open new grad, early career and entry-level roles at US employers: 12 new grad and entry-level roles at 11 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-12.
 
 **By category:** Software Engineering (2) · Data Science / AI / ML (2) · Hardware Engineering (2) · Other (6)
 
@@ -19,15 +19,15 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| [eliseai.com](https://warmada.com/companies/eliseai-com?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Junior Research Scientist | San Francisco | Nov 9 | [Apply](https://jobs.ashbyhq.com/EliseAI/2c7b711e-2fd2-439f-a3da-f9ac435e900a) · [Find the hiring manager](https://warmada.com/job/eliseai-com-junior-research-scientist-223a3ffa-0195-49e5-bf38-1290ecf57b67?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
+| [EliseAI](https://warmada.com/companies/eliseai?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Junior Research Scientist | San Francisco | Nov 9 | [Apply](https://jobs.ashbyhq.com/EliseAI/2c7b711e-2fd2-439f-a3da-f9ac435e900a) · [Find the hiring manager](https://warmada.com/job/eliseai-junior-research-scientist-223a3ffa-0195-49e5-bf38-1290ecf57b67?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [SambaNova](https://warmada.com/companies/sambanova?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Machine Learning Engineer - New Grad | Austin, Texas, United States; San Jose, California, United States | Nov 3 | [Apply](https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004) · [Find the hiring manager](https://warmada.com/job/sambanova-machine-learning-engineer-new-grad-10f75eb5-f25e-4ffe-afcf-e827569c1943?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 ## Hardware Engineering (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Eight Sleep](https://warmada.com/companies/eight-sleep?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Mechanical Engineer (New Grad 2027) | San Francisco | Nov 11 | [Apply](https://jobs.ashbyhq.com/eightsleep/1e79beda-c664-40aa-82ce-63632e03d5f2) · [Find the hiring manager](https://warmada.com/job/eight-sleep-mechanical-engineer-new-grad-2027-4a931a34-6dfb-4698-bc61-0dfc61800cd2?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [Zipline](https://warmada.com/companies/zipline?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Manufacturing Engineer, Early Career | South San Francisco, California, USA | Oct 30 | [Apply](https://www.zipline.com/open-roles/8040731003?gh_jid=8040731003) · [Find the hiring manager](https://warmada.com/job/zipline-manufacturing-engineer-early-career-4f3dad14-282e-48de-8e72-be3f55bc3962?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| [Formlabs](https://warmada.com/companies/formlabs?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Electrical Engineer - Entry Level | Boston, MA | Oct 28 | [Apply](https://careers.formlabs.com/job/8331686/apply/?gh_jid=8331686) · [Find the hiring manager](https://warmada.com/job/formlabs-electrical-engineer-entry-level-8c566a16-8863-43a1-8c83-d53738aa0ab8?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 ## Other (6)
 
