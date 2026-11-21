@@ -1,8 +1,8 @@
 # US New Grad and Entry-Level Jobs
 
-Open new grad, early career and entry-level roles at US employers: 21 new grad and entry-level roles at 14 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-20.
+Open new grad, early career and entry-level roles at US employers: 22 new grad and entry-level roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-21.
 
-**By category:** Software Engineering (1) · Data Science / AI / ML (3) · Quant / Finance (1) · Hardware Engineering (3) · Other (13)
+**By category:** Software Engineering (1) · Data Science / AI / ML (3) · Quant / Finance (1) · Hardware Engineering (3) · Other (14)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. The category comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -18,7 +18,7 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| Integra FEC | Junior Data Scientist (Summer 2027) | Austin, Texas | Nov 18 | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) · [Find the hiring manager](https://warmada.com/job/integra-fec-junior-data-scientist-summer-2027-1504fe70-669f-4cb8-bb79-6f6b3e9e76ca?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
+| Integra FEC | Junior Data Scientist | Austin, Texas | Nov 18 | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) · [Find the hiring manager](https://warmada.com/job/integra-fec-junior-data-scientist-1504fe70-669f-4cb8-bb79-6f6b3e9e76ca?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [Roblox](https://warmada.com/companies/roblox?utm_source=github&utm_medium=list&utm_campaign=new-grad) | \[2027\] Data Scientist - PhD Early Career - Safety | San Mateo, CA, United States | Nov 16 | [Apply](https://careers.roblox.com/jobs/8384186?gh_jid=8384186) · [Find the hiring manager](https://warmada.com/job/roblox-2027-data-scientist-phd-early-career-safety-872fd550-ceaf-45a4-a049-bfde5056e194?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [EliseAI](https://warmada.com/companies/eliseai?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Junior Research Scientist | San Francisco | Nov 9 | [Apply](https://jobs.ashbyhq.com/EliseAI/2c7b711e-2fd2-439f-a3da-f9ac435e900a) · [Find the hiring manager](https://warmada.com/job/eliseai-junior-research-scientist-223a3ffa-0195-49e5-bf38-1290ecf57b67?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
@@ -26,7 +26,7 @@ A bad listing? Email hello@warmada.com with the link.
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| Affirm | Internal Auditor I (2027 Early Career Program) | New York, New York, United States | Nov 19 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8206173003) · [Find the hiring manager](https://warmada.com/job/affirm-internal-auditor-i-2027-early-career-program-f8ad3ed7-8484-4866-bead-f43ad746bbbc?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
+| [Blake Willson Group](https://warmada.com/companies/blake-willson-group?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Associate - Junior Accountant | Remote, US | Nov 20 | [Apply](https://blakewillsongroup.com/careers?gh_jid=5490628008) · [Find the hiring manager](https://warmada.com/job/blake-willson-group-associate-junior-accountant-4c0933fc-98a8-4194-bb0f-a6b502770c10?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 ## Hardware Engineering (3)
 
@@ -36,12 +36,13 @@ A bad listing? Email hello@warmada.com with the link.
 | [General Matter](https://warmada.com/companies/general-matter?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Mechanical Process Engineer (New Grad) | Los Angeles | Nov 17 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5485524008) · [Find the hiring manager](https://warmada.com/job/general-matter-mechanical-process-engineer-new-grad-4ddab34b-577d-4ac7-8827-1995a5f10dca?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [Eight Sleep](https://warmada.com/companies/eight-sleep?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Mechanical Engineer (New Grad 2027) | San Francisco | Nov 11 | [Apply](https://jobs.ashbyhq.com/eightsleep/1e79beda-c664-40aa-82ce-63632e03d5f2) · [Find the hiring manager](https://warmada.com/job/eight-sleep-mechanical-engineer-new-grad-2027-4a931a34-6dfb-4698-bc61-0dfc61800cd2?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
-## Other (13)
+## Other (14)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Datavant](https://warmada.com/companies/datavant?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Health Information Specialist I-Entry Level-8788 | Alabama, Mississippi, South Carolina, Texas | Nov 20 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5475054008) · [Find the hiring manager](https://warmada.com/job/datavant-health-information-specialist-i-entry-level-8788-1871d607-3df5-4791-a292-273953a2fd35?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
+| [ENSCO, Inc.](https://warmada.com/companies/ensco-inc?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Junior Technician | Chambersburg, Pennsylvania, United States | Nov 20 | [Apply](https://job-boards.greenhouse.io/ensco/jobs/5485760008) · [Find the hiring manager](https://warmada.com/job/ensco-inc-junior-technician-5b5aebcb-718f-4598-b8bc-896649618e4d?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [IXL Learning](https://warmada.com/companies/ixl-learning?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Associate Customer Support Analyst, New Grad | Raleigh, NC | Nov 19 | [Apply](https://www.ixl.com/company/jobs?gh_jid=8952868002) · [Find the hiring manager](https://warmada.com/job/ixl-learning-associate-customer-support-analyst-new-grad-82060857-c273-48cd-90bc-34dd15263fe8?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| Affirm | Capital Markets Specialist I (2027 Early Career Program) | New York, New York, United States | Nov 19 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8205833003) · [Find the hiring manager](https://warmada.com/job/affirm-capital-markets-specialist-i-2027-early-career-program-79739aa8-d31d-4778-9293-6ba666616a99?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [Blink Health](https://warmada.com/companies/blink-health?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Staff Pharmacist, Entry Level Closed-Door \| Onsite, Chesterfield | Chesterfield, MO | Nov 19 | [Apply](https://job-boards.greenhouse.io/blinkhealth/jobs/8951416002) · [Find the hiring manager](https://warmada.com/job/blink-health-staff-pharmacist-entry-level-closed-door-onsite-chesterfield-8b84e5f2-a246-442e-9e9b-d1cdf33fd8c1?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [Tellos, Inc.](https://warmada.com/companies/tellos-inc?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Entry-Level Autism Therapist | United States \| Gorham, NH | Nov 18 | [Apply](https://jobs.ashbyhq.com/tellos/a9cff95f-669d-4e36-a591-b24c09c4ef7e) · [Find the hiring manager](https://warmada.com/job/tellos-inc-entry-level-autism-therapist-e32987b5-9d2b-482d-929b-50f9c158a3dd?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [Eight Sleep](https://warmada.com/companies/eight-sleep?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New Grad - Business Functions | New York City | Nov 17 | [Apply](https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef) · [Find the hiring manager](https://warmada.com/job/eight-sleep-new-grad-business-functions-e6b0064f-d30c-4269-940e-d99ee5c85656?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
