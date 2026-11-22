@@ -1,17 +1,18 @@
 # US New Grad and Entry-Level Jobs
 
-Open new grad, early career and entry-level roles at US employers: 22 new grad and entry-level roles at 15 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-21.
+Open new grad, early career and entry-level roles at US employers: 23 new grad and entry-level roles at 16 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-22.
 
-**By category:** Software Engineering (1) · Data Science / AI / ML (3) · Quant / Finance (1) · Hardware Engineering (3) · Other (14)
+**By category:** Software Engineering (2) · Data Science / AI / ML (3) · Quant / Finance (1) · Hardware Engineering (3) · Other (14)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. The category comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
 A bad listing? Email hello@warmada.com with the link.
 
-## Software Engineering (1)
+## Software Engineering (2)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
+| [Secureframe](https://warmada.com/companies/secureframe?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Software Engineer, New Grad | New York, NY | Nov 21 | [Apply](https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb) · [Find the hiring manager](https://warmada.com/job/secureframe-software-engineer-new-grad-41c17dee-5f5b-4c71-9446-4e95a5e4f1bd?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [Formlabs](https://warmada.com/companies/formlabs?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Embedded Software Engineer - Entry Level | Boston, MA | Nov 19 | [Apply](https://careers.formlabs.com/job/8402093/apply/?gh_jid=8402093) · [Find the hiring manager](https://warmada.com/job/formlabs-embedded-software-engineer-entry-level-63c16b69-aae1-4b73-9cf5-224565c3989c?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 ## Data Science / AI / ML (3)
