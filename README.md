@@ -1,6 +1,6 @@
 # US New Grad and Entry-Level Jobs
 
-Open new grad, early career and entry-level roles at US employers: 23 new grad and entry-level roles at 16 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-22.
+Open new grad, early career and entry-level roles at US employers: 23 new grad and entry-level roles at 16 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-23.
 
 **By category:** Software Engineering (2) · Data Science / AI / ML (3) · Quant / Finance (1) · Hardware Engineering (3) · Other (14)
 
