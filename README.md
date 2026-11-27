@@ -1,8 +1,8 @@
 # US New Grad and Entry-Level Jobs
 
-Open new grad, early career and entry-level roles at US employers: 39 new grad and entry-level roles at 22 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-26.
+Open new grad, early career and entry-level roles at US employers: 38 new grad and entry-level roles at 21 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-27.
 
-**By category:** Software Engineering (6) · Data Science / AI / ML (2) · Quant / Finance (2) · Hardware Engineering (3) · Other (26)
+**By category:** Software Engineering (6) · Data Science / AI / ML (2) · Quant / Finance (2) · Hardware Engineering (3) · Other (25)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. The category comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -41,7 +41,7 @@ A bad listing? Email hello@warmada.com with the link.
 | [General Matter](https://warmada.com/companies/general-matter?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Automation &amp; Controls Engineer, New Grads | Los Angeles, CA | Nov 17 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5476939008) · [Find the hiring manager](https://warmada.com/job/general-matter-automation-and-controls-engineer-new-grads-ab8c5ede-24c3-49b2-b893-9e7cb25d3216?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [General Matter](https://warmada.com/companies/general-matter?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Process Engineer (New Grad) | Los Angeles, CA | Nov 17 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5485524008) · [Find the hiring manager](https://warmada.com/job/general-matter-process-engineer-new-grad-4ddab34b-577d-4ac7-8827-1995a5f10dca?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
-## Other (26)
+## Other (25)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
@@ -70,4 +70,3 @@ A bad listing? Email hello@warmada.com with the link.
 | [Eight Sleep](https://warmada.com/companies/eight-sleep?utm_source=github&utm_medium=list&utm_campaign=new-grad) | New Grad - Business Functions (full-time) | New York City | Nov 17 | [Apply](https://jobs.ashbyhq.com/eightsleep/80518ba7-3b58-4131-b5c2-78c1b660b9ef) · [Find the hiring manager](https://warmada.com/job/eight-sleep-new-grad-business-functions-full-time-e6b0064f-d30c-4269-940e-d99ee5c85656?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [Datavant](https://warmada.com/companies/datavant?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Health Information Specialist I-Entry Level-8794 | Alabama, Iowa, Oklahoma, Texas | Nov 17 | [Apply](https://www.datavant.com/about/careers/open-roles/job?gh_jid=5475470008) · [Find the hiring manager](https://warmada.com/job/datavant-health-information-specialist-i-entry-level-8794-d8be0097-967d-41ba-9da8-cce4fe52bb13?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [TensorWave](https://warmada.com/companies/tensorwave?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Junior Paralegal | Las Vegas, Nevada | Nov 16 | [Apply](https://jobs.ashbyhq.com/TensorWave/b847c669-4913-4a49-9077-de6d970d1cac) · [Find the hiring manager](https://warmada.com/job/tensorwave-junior-paralegal-28d327eb-81ef-4752-b0a3-5f8e43b15f70?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
-| [Nuro](https://warmada.com/companies/nuro?utm_source=github&utm_medium=list&utm_campaign=new-grad) | Systems Engineering, New Grad 2027 | Mountain View, California (HQ) | Nov 12 | [Apply](https://nuro.ai/careersitem?gh_jid=8360415) · [Find the hiring manager](https://warmada.com/job/nuro-systems-engineering-new-grad-2027-78acf579-ea28-4eaf-9138-2ff7b53ad15d?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
