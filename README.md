@@ -1,8 +1,8 @@
 # US New Grad and Entry-Level Jobs
 
-Open new grad, early career and entry-level roles at US employers: 38 new grad and entry-level roles at 21 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-27.
+Open new grad, early career and entry-level roles at US employers: 37 new grad and entry-level roles at 20 companies, each posted in the last 14 days and still open. **Updated every day by [Warmada](https://warmada.com/?utm_source=github&utm_medium=list&utm_campaign=new-grad).** Last updated 2026-11-28.
 
-**By category:** Software Engineering (6) · Data Science / AI / ML (2) · Quant / Finance (2) · Hardware Engineering (3) · Other (25)
+**By category:** Software Engineering (6) · Data Science / AI / ML (2) · Quant / Finance (1) · Hardware Engineering (3) · Other (25)
 
 **How it is built.** Warmada reads public company job boards such as Greenhouse, Ashby, Lever and Workday every day and keeps the postings that name a US location. The category comes from keywords in the title, so a role can land in the wrong one. Nobody sorts this list by hand. Apply on the employer's own site; "Find the hiring manager" opens the posting on Warmada, which suggests who is likely hiring for it.
 
@@ -26,11 +26,10 @@ A bad listing? Email hello@warmada.com with the link.
 | Integra FEC | Junior Data Scientist | Austin, Texas | Nov 18 | [Apply](https://job-boards.greenhouse.io/integra/jobs/5487065008) · [Find the hiring manager](https://warmada.com/job/integra-fec-junior-data-scientist-1504fe70-669f-4cb8-bb79-6f6b3e9e76ca?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | [Roblox](https://warmada.com/companies/roblox?utm_source=github&utm_medium=list&utm_campaign=new-grad) | \[2027\] Data Scientist - PhD Early Career - Safety | San Mateo, CA, United States | Nov 16 | [Apply](https://careers.roblox.com/jobs/8384186?gh_jid=8384186) · [Find the hiring manager](https://warmada.com/job/roblox-2027-data-scientist-phd-early-career-safety-872fd550-ceaf-45a4-a049-bfde5056e194?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
-## Quant / Finance (2)
+## Quant / Finance (1)
 
 | Company | Role | Location | Posted | Links |
 | --- | --- | --- | --- | --- |
-| Blake Willson Group | Associate - Junior Accountant | Remote, US | Nov 20 | [Apply](https://blakewillsongroup.com/careers?gh_jid=5490628008) · [Find the hiring manager](https://warmada.com/job/blake-willson-group-associate-junior-accountant-4c0933fc-98a8-4194-bb0f-a6b502770c10?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 | Affirm | Internal Auditor I (2027 Early Career Program) | New York, New York, United States | Nov 19 | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8206173003) · [Find the hiring manager](https://warmada.com/job/affirm-internal-auditor-i-2027-early-career-program-f8ad3ed7-8484-4866-bead-f43ad746bbbc?utm_source=github&utm_medium=list&utm_campaign=new-grad) |
 
 ## Hardware Engineering (3)
